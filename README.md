@@ -1,2 +1,1 @@
-Modification in feature-greeting branch
- Modification in main branch
+This is just a demo for my frontend foundations.
